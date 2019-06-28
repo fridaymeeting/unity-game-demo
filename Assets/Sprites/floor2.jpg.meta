@@ -1,0 +1,531 @@
+fileFormatVersion: 2
+guid: 43d40715a0d8747e88375af7fa0809d6
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: floor2_0
+    21300002: floor2_1
+    21300004: floor2_2
+    21300006: floor2_3
+    21300008: floor2_4
+    21300010: floor2_5
+    21300012: floor2_6
+    21300014: floor2_7
+    21300016: floor2_8
+    21300018: floor2_9
+    21300020: floor2_10
+    21300022: floor2_11
+    21300024: floor2_12
+    21300026: floor2_13
+    21300028: floor2_14
+    21300030: floor2_15
+    21300032: floor2_16
+    21300034: floor2_17
+    21300036: floor2_18
+    21300038: floor2_19
+    21300040: floor2_20
+    21300042: floor2_21
+    21300044: floor2_22
+    21300046: floor2_23
+    21300048: floor2_24
+    21300050: floor2_25
+    21300052: floor2_26
+    21300054: floor2_27
+    21300056: floor2_28
+    21300058: floor2_29
+    21300060: floor2_30
+    21300062: floor2_31
+    21300064: floor2_32
+    21300066: floor2_33
+    21300068: floor2_34
+    21300070: floor2_35
+    21300072: floor2_36
+    21300074: floor2_37
+    21300076: floor2_38
+    21300078: floor2_39
+    21300080: floor2_40
+    21300082: floor2_41
+    21300084: floor2_42
+    21300086: floor2_43
+    21300088: floor2_44
+    21300090: floor2_45
+    21300092: floor2_46
+    21300094: floor2_47
+    21300096: floor2_48
+    21300098: floor2_49
+    21300100: floor2_50
+    21300102: floor2_51
+    21300104: floor2_52
+    21300106: floor2_53
+    21300108: floor2_54
+    21300110: floor2_55
+    21300112: floor2_56
+    21300114: floor2_57
+    21300116: floor2_58
+    21300118: floor2_59
+    21300120: floor2_60
+    21300122: floor2_61
+    21300124: floor2_62
+    21300126: floor2_63
+    21300128: floor2_64
+    21300130: floor2_65
+    21300132: floor2_66
+    21300134: floor2_67
+    21300136: floor2_68
+    21300138: floor2_69
+    21300140: floor2_70
+    21300142: floor2_71
+    21300144: floor2_72
+    21300146: floor2_73
+    21300148: floor2_74
+    21300150: floor2_75
+    21300152: floor2_76
+    21300154: floor2_77
+    21300156: floor2_78
+    21300158: floor2_79
+    21300160: floor2_80
+    21300162: floor2_81
+    21300164: floor2_82
+    21300166: floor2_83
+    21300168: floor2_84
+    21300170: floor2_85
+    21300172: floor2_86
+    21300174: floor2_87
+    21300176: floor2_88
+    21300178: floor2_89
+    21300180: floor2_90
+    21300182: floor2_91
+    21300184: floor2_92
+    21300186: floor2_93
+    21300188: floor2_94
+    21300190: floor2_95
+    21300192: floor2_96
+    21300194: floor2_97
+    21300196: floor2_98
+    21300198: floor2_99
+    21300200: floor2_100
+    21300202: floor2_101
+    21300204: floor2_102
+    21300206: floor2_103
+    21300208: floor2_104
+    21300210: floor2_105
+    21300212: floor2_106
+    21300214: floor2_107
+    21300216: floor2_108
+    21300218: floor2_109
+    21300220: floor2_110
+    21300222: floor2_111
+    21300224: floor2_112
+    21300226: floor2_113
+    21300228: floor2_114
+    21300230: floor2_115
+    21300232: floor2_116
+    21300234: floor2_117
+    21300236: floor2_118
+    21300238: floor2_119
+    21300240: floor2_120
+    21300242: floor2_121
+    21300244: floor2_122
+    21300246: floor2_123
+    21300248: floor2_124
+    21300250: floor2_125
+    21300252: floor2_126
+    21300254: floor2_127
+    21300256: floor2_128
+    21300258: floor2_129
+    21300260: floor2_130
+    21300262: floor2_131
+    21300264: floor2_132
+    21300266: floor2_133
+    21300268: floor2_134
+    21300270: floor2_135
+    21300272: floor2_136
+    21300274: floor2_137
+    21300276: floor2_138
+    21300278: floor2_139
+    21300280: floor2_140
+    21300282: floor2_141
+    21300284: floor2_142
+    21300286: floor2_143
+    21300288: floor2_144
+    21300290: floor2_145
+    21300292: floor2_146
+    21300294: floor2_147
+    21300296: floor2_148
+    21300298: floor2_149
+    21300300: floor2_150
+    21300302: floor2_151
+    21300304: floor2_152
+    21300306: floor2_153
+    21300308: floor2_154
+    21300310: floor2_155
+    21300312: floor2_156
+    21300314: floor2_157
+    21300316: floor2_158
+    21300318: floor2_159
+    21300320: floor2_160
+    21300322: floor2_161
+    21300324: floor2_162
+    21300326: floor2_163
+    21300328: floor2_164
+    21300330: floor2_165
+    21300332: floor2_166
+    21300334: floor2_167
+    21300336: floor2_168
+    21300338: floor2_169
+    21300340: floor2_170
+    21300342: floor2_171
+    21300344: floor2_172
+    21300346: floor2_173
+    21300348: floor2_174
+    21300350: floor2_175
+    21300352: floor2_176
+    21300354: floor2_177
+    21300356: floor2_178
+    21300358: floor2_179
+    21300360: floor2_180
+    21300362: floor2_181
+    21300364: floor2_182
+    21300366: floor2_183
+    21300368: floor2_184
+    21300370: floor2_185
+    21300372: floor2_186
+    21300374: floor2_187
+    21300376: floor2_188
+    21300378: floor2_189
+    21300380: floor2_190
+    21300382: floor2_191
+    21300384: floor2_192
+    21300386: floor2_193
+    21300388: floor2_194
+    21300390: floor2_195
+    21300392: floor2_196
+    21300394: floor2_197
+    21300396: floor2_198
+    21300398: floor2_199
+    21300400: floor2_200
+    21300402: floor2_201
+    21300404: floor2_202
+    21300406: floor2_203
+    21300408: floor2_204
+    21300410: floor2_205
+    21300412: floor2_206
+    21300414: floor2_207
+    21300416: floor2_208
+    21300418: floor2_209
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: floor2_0
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 863
+        width: 415
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6f3dc9a720442fe9f7d4ac070c67f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor2_1
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 863
+        width: 415
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8b48021b03f49b7bf9e455f71feb75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor2_2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 691
+        width: 415
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db58e2b0d1e5d45099e4ad9657b644fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor2_3
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 691
+        width: 415
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ca26bf967614ea08c6ba744a1e06a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor2_4
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 524
+        width: 417
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e8edb9b47444dbfabd9f35a35a2202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor2_5
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 525
+        width: 415
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3341ca4f276824d4da72da1121aca9b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor2_6
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 351
+        width: 415
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8132fd19c2644fae8351ff88ba7f139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor2_7
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 351
+        width: 415
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109e44b8e39c841f19267cbb7518c70a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor2_8
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 173
+        width: 415
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb71cfb11b561402fb1eecd2ad7c00ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor2_9
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 173
+        width: 415
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15c90dbd8be14a44b9cc04d79d21bc9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3ed3e771573c64fb5b168982dedab7f9
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
